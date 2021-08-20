@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MyAddressPlus</string>
+    <string name="title">My Address</string>
+    <string name="first_name">First Name:</string>
+    <string name="last_name">Last Name:</string>
+    <string name="address">Address:</string>
+    <string name="province">Province:</string>
+    <string name="country">Country:</string>
+    <string name="postal_code">Postal Code:</string>
+    <string name="btn">Submit</string>
+    <string name="menu_delete">Delete Contact</string>
+
+    <string name="input_first_name">First Name</string>
+    <string name="input_last_name">Last Name</string>
+    <string name="input_address">Address</string>
+    <string name="input_country">Country</string>
+    <string name="input_postal_code">Postal Code</string>
+
+    <string name="no_items">No contacts in the list</string>
+    <string name="about_text">My Address is a nice and simple Android Application that lets you add your contacts to your address book.</string>
+</resources>

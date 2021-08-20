@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textview_padding">20dp</dimen>
+    <dimen name="gridlayout_padding">12dp</dimen>
+    <dimen name="marginEnd">40dp</dimen>
+    <dimen name="width_editText">70dp</dimen>
+    <dimen name="width_lbl">200dp</dimen>
+</resources>
